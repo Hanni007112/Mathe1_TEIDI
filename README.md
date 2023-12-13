@@ -1,3 +1,3 @@
 # Mathe1_TEIDI
 
-[Probleklausur](/Porobeklausur.pdf)
+[Probleklausur](/probeklausur.pdf)
